@@ -2,7 +2,7 @@
 
 Export XLS depuis Odoo : Points de Vente >>> Commandes >>> Commandes
 
-Un filtre sur dates est possible.
+Un filtre sur les dates est possible.
 
 Sélectionner tout.
 
